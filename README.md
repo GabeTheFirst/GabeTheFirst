@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am GabeTheFirst, I make games sometimes, so not really anything to put here at the moment, I have an account though!
 
 <!--
 **GabeTheFirst/GabeTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
