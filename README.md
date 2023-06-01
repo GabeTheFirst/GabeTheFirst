@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am GabeTheFirst, I make games sometimes, so not really anything to put here at the moment, I have an account though!
 ### 😺 I know C# 
-### 🌱 I’m currently learning C#, and JavaScript, and 3d modelling
+### 🌱 I’m currently learning JavaScript, and 3d modelling
 
 <!--
 **GabeTheFirst/GabeTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
