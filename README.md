@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I am GabeTheFirst, I make games sometimes, so not really anything to put here at the moment, I have an account though!
+###  I know C# 
 ### 🌱 I’m currently learning C#, and JavaScript, and 3d modelling
 
 <!--
