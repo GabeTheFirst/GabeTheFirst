@@ -1,3 +1,5 @@
+### Any projects here will be outdated! Up to date repos will be available at https://projects.gabethefirst.com/GabeTheFirst
+
 ### Hi there 👋
 ### I am GabeTheFirst, I make games sometimes, so not really anything to put here at the moment, I have an account though!
 ### 😺 I know C# 
